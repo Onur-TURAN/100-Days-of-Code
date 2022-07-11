@@ -2,7 +2,6 @@
 ***
 ## egzersize bizden şu outputu istiyor
 1. Evet bakalım!!
----
 ![img-1](https://github.com/Onur-TURAN/100-Days-of-Code/tree/main/day_1/img/exrcs_2-1.png)
 ---
 2. Ben de istenilen çıktıları şu şekilde hazırladım.
