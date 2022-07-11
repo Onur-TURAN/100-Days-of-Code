@@ -22,9 +22,9 @@
 ## 8. video [Interectaive Coding Exercise]
 ### "Coding Rooms" sitesine yönlendirdi beni. Oraya bir sürü egzersiz koymuş, burada ilerleyen zamanlarda kullanacağım egzersizleri de görebiliyorum, baya heyecan verici gözüküyor.
 # Exercisesler hakkındaki detaylı açıklamayı
-##1. [1-exercise_1](https://github.com/Onur-TURAN/100-Days-of-Code/day_1/1-exercise_1) kısmında bulabilirsiniz.
-##2. [1-exercise_2](https://github.com/Onur-TURAN/100-Days-of-Code/day_1/1-exercise_2) kısmında bulabilirsiniz.
-##3. [1-exercise_3](https://github.com/Onur-TURAN/100-Days-of-Code/day_1/1-exercise_3) kısmında bulabilirsiniz.
+1. [1-exercise_1](https://github.com/Onur-TURAN/100-Days-of-Code/tree/day_1/1-exercise_1) kısmında bulabilirsiniz.
+2. [1-exercise_2](https://github.com/Onur-TURAN/100-Days-of-Code/tree/day_1/1-exercise_2) kısmında bulabilirsiniz.
+3. [1-exercise_3](https://github.com/Onur-TURAN/100-Days-of-Code/tree/day_1/1-exercise_3) kısmında bulabilirsiniz.
 
 
 
