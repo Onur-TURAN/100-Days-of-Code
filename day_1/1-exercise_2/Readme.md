@@ -15,5 +15,5 @@
 ![img-3](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_2-3.png)
 ---
 
-şimdi [exercise-3](https://github.com/100-Days-of-Code/tree/main/day_1/1-exercise_3) zamanı
+şimdi [exercise-3](https://github.com/Onur-TURAN/100-Days-of-Code/tree/main/day_1/1-exercise_3) zamanı
 	
