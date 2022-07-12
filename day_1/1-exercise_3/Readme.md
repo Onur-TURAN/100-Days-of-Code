@@ -7,9 +7,9 @@ egzersizin bizden istediği çıktı şu şekilde.
 ![exrcs3-1](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_3-1.png)
 Burada bize lazım olacak fonksiyonları google'da aratabilmem için neye ihtiyacımın olduğunu belirledim. 
 
-[ * ] print komutu
-[ * ] Benden string değeri alan komut >>> İnput komutu
-[ * ] Benden aldığı string ifadesinde kaç karakter olduğunu bana integer olarak vere fonksiyon len ()
+- [ x ] print komutu
+- [ x ] Benden string değeri alan komut >>> İnput komutu
+- [ x ] Benden aldığı string ifadesinde kaç karakter olduğunu bana integer olarak vere fonksiyon len ()
 
 ## İnput fonksiyonu
  Kabaca bize gerekli olan kısmı İnput değeri ile kullanıcıdan bir değer alabilmek.
