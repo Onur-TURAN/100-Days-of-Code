@@ -19,7 +19,7 @@ Bir tane daha tmp olarak değişken tanımlayarak çözüm sağlayacağız.
 	3. tmp değişkeni de 2. değişkenine atanır
 	- ![exrcs4-3](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-3)
 	4. sonra 1. ve 2. değişkenler print fonksiyonu ile çıktısı verilir.
-	- ![exrcs4-1](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-1)
+	- ![exrcs4-4](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-4)
 
 Yaptığımız olayı tablolaştıracak olursakta.
 
