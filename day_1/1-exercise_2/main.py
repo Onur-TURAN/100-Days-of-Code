@@ -1,3 +1,27 @@
+""" bize verdiği kodu buraya bırakayım.
+#Fix the code below 👇
+
+*** *** *** *** *** *** *** *** ***
+Fonksiyon içerisinde tırnak başlangıcı unutulmuş.
+
+print(Day 1 - String Manipulation")  
+************************************
+*** *** *** *** *** *** *** *** ***
+alt satırdaki bırakılan boşluğu python dili okuyamıyor.
+
+print("String Concatenation is done with the "+" sign.")
+  print('e.g. print("Hello " + "world")')
+************************************
+*** *** *** *** *** *** *** *** ***
+Parantez kapanışlarında bir tanesi unutulmuş
+
+print(("New lines can be created with a backslash and n.")
+************************************
+"""
+
+
+
+
 
 """ bize anlattıgı küçük konu anlatımını da aşağıda uygulayalım"""
 
