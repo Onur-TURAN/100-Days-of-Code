@@ -1,4 +1,4 @@
-#Egzersiz 4 e hoş geldiniz.
+# Egzersiz 4 e hoş geldiniz.
 
 Bununla ilgili çözüm videosuna [14.video](https://www.udemy.com/course/100-days-of-code/learn/lecture/17837490#overview) 'dan ulaşabilirsiniz.
 ***
