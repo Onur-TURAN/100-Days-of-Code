@@ -13,21 +13,18 @@ Bir tane daha tmp olarak değişken tanımlayarak çözüm sağlayacağız.
 	İlk önce bizden istenen değerler için değişken bir de *"tmp"* değişkeni atanır
 ## 2. adım
 	1. 1. değişken tmp değişkenine
-	- ![exrcs4-1](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-1)
+	 ![exrcs4-1](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-1)
 	2. 2. değişken 1. değişkenine
-	- ![exrcs4-2](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-2)
+	 ![exrcs4-2](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-2)
 	3. tmp değişkeni de 2. değişkenine atanır
-	- ![exrcs4-3](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-3)
+	 ![exrcs4-3](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-3)
 	4. sonra 1. ve 2. değişkenler print fonksiyonu ile çıktısı verilir.
-	- ![exrcs4-4](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-4)
+	 ![exrcs4-4](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_1/img/exrcs_4-4)
 
 Yaptığımız olayı tablolaştıracak olursakta.
 
 ||0. durumdaki değerleri|1. durumdaki değerleri| 2. durumdaki değerleri|3. durumdaki değeleri|
-|--|---|---|---|----|
 |a|XXX|XXX|YYY|YYY|
-|---|---|---|---|---|
 |b|YYY|YYY|YYY|XXX|
-|----|--|---|---|---|
 |TMP||XXX|XXX|XXX|
-|---|---|---|---|---|
+
