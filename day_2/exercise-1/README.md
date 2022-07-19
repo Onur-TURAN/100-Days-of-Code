@@ -13,7 +13,7 @@
 
 öncelikle digit_once ve digit_twice olarak 2 tane değişken tanımlıyoruz ve bunlara alınan input değerlerinde 
 
-![exrcs_1-2.png](https://github.com/Onur-TURAN/100-Days-of_Code/blob/main/day_2/exercise-1/img/exrcs_1-2.png)
+![exrcs_1-2.png](https://github.com/Onur-TURAN/100-Days-of-Code/blob/main/day_2/exercise-1/img/exrcs_1-2.png)
 
 şeklinde atama yapılır.
 
